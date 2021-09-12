@@ -14,6 +14,10 @@
 ## ACTIVITY DIAGRAM:
 ![image](https://user-images.githubusercontent.com/48092151/132983730-32421404-3049-401d-857f-49f92b235f79.png)
 
+## ARCHITECTURE:
+![image](https://user-images.githubusercontent.com/48092151/132984544-826804a2-054f-41b8-b144-808b41296833.png)
+
+
 
 
 
