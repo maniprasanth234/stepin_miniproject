@@ -19,3 +19,15 @@ So this is the proper functioning of the program. You can add colours for backgr
 ## Working
 You have to enter the year that you want to display the calendar. After entering the year it will display that the year is a leap or not with the monthly calendar.
 
+## REQURIMENTS:
+
+## SYSTEM REQUIREMENTS
+## SOFTWARE REQUIREMENTS:
+The major software requirements of the project are as follows:
+Language      :  turboc
+Operating system: Windows 8.1 or later.
+## HARDWARE REQUIREMENTS:
+The hardware requirements that map towards the software are as follows: 
+     RAM             :    8GB   
+     Processor       :   i3  
+
