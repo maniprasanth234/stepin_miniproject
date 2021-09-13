@@ -18,3 +18,7 @@ Time-saving features. Enhanced aggregation pulls all of your schedules into a si
 
 Smarter design. When you’re looking at your schedule on the go, you probably don’t want to see your entire week. You need a swipe able, simple interface that helps you focus on the present. Many smart calendar apps display your schedule as a day-by-day, task-style list that’s easier to see on a smaller screen. Some even let you swipe agenda items from a locked screen, too, creating a more convenient way to stay on track on the go.
 
+![Code Quality](https://www.code-inspector.com/project/28546/score/svg)
+
+![Code grade](https://www.code-inspector.com/project/28546/status/svg)
+
